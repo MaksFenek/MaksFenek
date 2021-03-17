@@ -20,9 +20,9 @@
 
 **Языки и инструменты**  
 
-<code><img height="20" src="https://www.flaticon.com/svg/vstatic/svg/919/919851.svg?token=exp=1615630149~hmac=e30c540ad15ab2fe98debd33dc6bdbf0"></code>
+<code><img height="20" src="https://www.flaticon.com/svg/vstatic/svg/919/919851.svg?token=exp=1615998965~hmac=2e604d77f966c6a211825724089ff7ca"></code>
 <code><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"></code>
-<code><img height="20" src="https://www.flaticon.com/svg/vstatic/svg/919/919828.svg?token=exp=1615630192~hmac=9317efd3109f14e43489ecffd418182f"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png"></code>
 <code><img height="20" src="https://www.flaticon.com/svg/vstatic/svg/919/919832.svg?token=exp=1615630192~hmac=fd28f550d9dc82e879047c2ea9087f4d"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
