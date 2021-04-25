@@ -14,7 +14,6 @@
   
   ### Контакты 
   
-- 📞 Телефон: [+7 (967) 420-62-74](tel:)
 - 📫 Почта: [makstreonin@gmail.com](mailto:makstreonin@gmail.com) / [arturvorokov@mail.ru](mailto:arturvorokov@mail.ru);
 - 📝 [Резюме](https://hh.ru/resume/1bb48cb7ff08c91eb20039ed1f3356576a3478)
 
